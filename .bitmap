@@ -29,7 +29,7 @@
     },
     "my-workspace-generator": {
         "scope": "yexianglei.viking",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "mainFile": "index.ts",
         "rootDir": "viking/my-workspace-generator"
     },
