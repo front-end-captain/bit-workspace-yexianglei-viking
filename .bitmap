@@ -27,5 +27,11 @@
         "mainFile": "index.ts",
         "rootDir": "viking/link"
     },
+    "my-workspace-generator": {
+        "scope": "yexianglei.viking",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "viking/my-workspace-generator"
+    },
     "$schema-version": "15.0.0"
 }
